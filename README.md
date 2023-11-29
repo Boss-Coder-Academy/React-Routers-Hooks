@@ -184,7 +184,7 @@ export default PrivateRoute;
 **Usage:**
 
 ```javascript
-Copy code
+
 // App.js
 import { BrowserRouter as Router, Route } from 'react-router-dom';
 import PrivateRoute from './PrivateRoute';
