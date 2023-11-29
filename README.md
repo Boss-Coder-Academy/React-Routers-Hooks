@@ -100,7 +100,7 @@ const App = () => {
 + The User component accesses this id parameter using the useParams hook.
 
 
-### 4. Nested Routes and <Switch>
+### 4. Nested Routes and `<Switch>`
 
 Nested routes involve having routes within other routes, enabling a hierarchy of components to be rendered based on the URL path. `<Switch>` allows rendering only the first matching `<Route>`.
 
@@ -155,7 +155,7 @@ const SomeComponent = () => {
 
 ```
 
-### 6. Route Guards and <Redirect>
+### 6. Route Guards and `<Redirect>`
 
 Route guards involve adding logic to protect certain routes, typically used for authentication purposes. `<Redirect>` is used to redirect users to specific routes programmatically.
 
