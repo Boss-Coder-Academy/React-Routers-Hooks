@@ -520,7 +520,7 @@ These advanced concepts in React help improve performance, user experience, and 
 
 ## Assignment:
 
-**Task1**: Use react hooks in order to implement the same like/unlike functionality as discussed in previous assignments.
+**Task1**: Use react hooks in order to implement the like functionality with a like counter in the Movie card.
 
 **Desired Output:**
 
@@ -547,7 +547,7 @@ These advanced concepts in React help improve performance, user experience, and 
  
 + Now write the following code in different files as follows
 
-**Header.js**
+**videoCard.js**
 
 
 ```javascript
@@ -642,7 +642,7 @@ export default App;
 ```
 
 
-**Task2**: Create a modal as shown on clicking the more info button, which should pop up, on clicking more info, and close on clicking close button, as shown below:
+**Task2**: Create a modal as shown on clicking the more info button, which should pop up, on clicking more info, and close on clicking the same button, as shown.
 
 **Desired Output:**
 
