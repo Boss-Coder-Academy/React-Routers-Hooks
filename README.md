@@ -1,5 +1,42 @@
 # React(Hooks, Routers)
 
+### Agenda
+
+a.) **Routers**
+
+1. **Introduction**
+2. **Installation and Setup**
+3. **Basic Routing**:
+      + Route
+      + Link
+4. **Dynamic Routing and Route Parameters**:
+5. **Nested Routes and <Switch>**:
+6. **Programmatic Navigation**
+7. **Route Guards and <Redirect>**:
+8. **Navigate**:
+      + Attributes
+
+b.) **Hooks**
+
+1. **Introduction**:
+      + useState
+      + useEffect
+      + useLocation
+      + useRouteMatch
+
+c.) **Advance Concepts**
+
+1. **Code Spliting**
+2. **Lazy Loading**
+3. **Server-Side Rendering (SSR)**
+
+d.) **Assignment**
+
+
+
+---
+
+
 ## React routers
        
 ### 1. Introduction to React Router
