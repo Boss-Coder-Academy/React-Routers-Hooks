@@ -9,10 +9,10 @@ a.) **Routers**
 3. **Basic Routing**:
       + Route
       + Link
-4. **Dynamic Routing and Route Parameters**:
-5. **Nested Routes and <Switch>**:
+4. **Dynamic Routing and Route Parameters**
+5. **Nested Routes and `<Switch>`**
 6. **Programmatic Navigation**
-7. **Route Guards and <Redirect>**:
+7. **Route Guards and `<Redirect>`**
 8. **Navigate**:
       + Attributes
 
