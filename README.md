@@ -567,10 +567,10 @@ These advanced concepts in React help improve performance, user experience, and 
 
 **Code:** 
 
-+ Make a ‘components’ folder inside the ‘src’ and create a file named header.js inside this components folder as shown:
++ Make a ‘components’ folder inside the ‘src’ and create a file named videoCard.js inside this components folder as shown:
 
 
-![alt Image](https://i.postimg.cc/vB4ZsxzY/install.jpg)
+![alt Image](https://iili.io/JI5GsCQ.png)
 
 
 
