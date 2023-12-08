@@ -557,6 +557,11 @@ These advanced concepts in React help improve performance, user experience, and 
 
 ## Assignment:
 
+For the following assignments use the given Figma link:
+
+[Figma Link for assignments](https://shorturl.at/clP68)
+
+
 **Task1**: Use react hooks in order to implement the like functionality with a like counter in the Movie card.
 
 **Desired Output:**
